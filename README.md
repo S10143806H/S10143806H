@@ -7,7 +7,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: friends not able to pronounce my name will just cal me "Sushi"
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S10143806H)](https://github.com/S10143806H/github-readme-stats)
 
 <!--
 **S10143806H/S10143806H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
