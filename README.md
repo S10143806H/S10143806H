@@ -1,7 +1,11 @@
 
 ![](http://antzuhl.cn:4000/get/@S10143806H.readme)
 
-### Hi there 👋
+### Hey everyone, I am a embedded software engineer currently working in Realtek Singapore 👋
+
+<img src="">
+
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
