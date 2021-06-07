@@ -10,6 +10,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=S10143806H)](https://github.com/S10143806H/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=S10143806H.readme)
 <!--
 **S10143806H/S10143806H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
