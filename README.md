@@ -1,44 +1,58 @@
+<a href="https://github.com/S10143806H">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S10143806H&theme=vue-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S10143806H&theme=vue-dark&layout=compact" />
+</a>
 
-![](http://antzuhl.cn:4000/get/@S10143806H.readme)
+-------------
 
-### Hey everyone, I am a embedded software engineer currently working in Realtek Singapore 👋
+[![Mail Badge](https://img.shields.io/badge/-t.zhuqi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:t.zhuqi@gmail.com)](mailto:t.zhuqi@gmail.com)
+[![QQ](https://img.shields.io/badge/QQ-644165318-red.svg "QQ")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "QQ")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhu%20Qi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhu-qi-1014/ "LinkedIn")
+[![Facebook](https://img.shields.io/badge/Facebook-Zhu%20Qi-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100005561439667 "Facebook")
+![GitHub Visotors](https://visitor-badge.glitch.me/badge?page_id=S10143806H.readme) 
 
-<img src="">
+## 👨🏻‍💻 Hey GitHub Fellows 👋
+### 🧍 About Me
+- 🔭 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Bachelor in Electrical and Electronic Engineering at Nanyang Technological University (NTU).
+- 💼 Working as a Embedded Software Engineer in Realtek Singapore.
+- 🌱 Learning more about RTOS, Artificial Intelligence，PCB and CAD Design.
+- ✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ⚡ Fun fact: friends not able to pronounce my name will just cal me "SUSHI"
 
+-------------
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: friends not able to pronounce my name will just cal me "Sushi"
+### ⚙️Tech Stack
+- 💻
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![MatLab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=R&logoColor=276DC3)
+- 🛢
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Source Insight](https://img.shields.io/badge/-SoureInsight-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 💻
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  [![Linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+  [![Max](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
-<!-- GitHub Stats -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S10143806H)](https://github.com/S10143806H/github-readme-stats)
+-------------
+  
+### 🎥 Most Recent Videos
+[![Learning GitHub with You](https://img.youtube.com/vi/lYRfkmf60A8/0.jpg)](https://youtu.be/lYRfkmf60A8 "Learning GitHub with You")
 
-<!-- GitHub Visitors -->
-![](https://visitor-badge.glitch.me/badge?page_id=S10143806H.readme)
+-------------
 
-# linux卡片
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-# mac卡片
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
-# 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-
-# 程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-
-# 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-
-
-
-
+### 📝 Most Recent Articles
+[【分享】什麽是Markdown？要如何使用它？](https://forum.amebaiot.com/t/markdown-1/514 "【分享】什麽是Markdown？要如何使用它？")
 <!--
 **S10143806H/S10143806H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
