@@ -9,7 +9,7 @@
 [![QQ](https://img.shields.io/badge/QQ-644165318-red.svg "QQ")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "QQ")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhu%20Qi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhu-qi-1014/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/Facebook-Zhu%20Qi-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100005561439667 "Facebook")
-![GitHub Visotors](https://visitor-badge.glitch.me/badge?page_id=S10143806H.readme) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=S10143806H.readme)   
 
 ## 👨🏻‍💻 Hey GitHub Fellows 👋
 ### 🧍 About Me
