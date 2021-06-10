@@ -43,7 +43,8 @@
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   [![Linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
   [![Max](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
+- 🏆
+  [![hackmd-github-sync-badge](https://hackmd.io/v1jFG5KhTnKX5gGKjtf8lg/badge)](https://hackmd.io/v1jFG5KhTnKX5gGKjtf8lg)
 -------------
   
 ### 🎥 Most Recent Videos
