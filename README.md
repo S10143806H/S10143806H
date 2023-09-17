@@ -9,7 +9,6 @@
 [![QQ](https://img.shields.io/badge/QQ-644165318-red.svg "QQ")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "QQ")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhu%20Qi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhu-qi-1014/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/Facebook-Zhu%20Qi-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100005561439667 "Facebook")
-[![GitHub Blog](s10143806h.github.io "GitHub")
 
 ## 👨🏻‍💻 Hey GitHub Community! 👋
 
@@ -20,6 +19,7 @@
 - 🌱 I'm actively expanding my knowledge in areas such as Real-Time Operating Systems (RTOS), Artificial Intelligence, PCB design, and CAD.
 - ✍️ In my spare time, I enjoy dabbling in Graphic Design and writing for my blog.
 - ⚡ Fun fact: If you're ever unsure how to pronounce my name, just call me "SUSHI" – it works like a charm!
+Check out my [Blog](s10143806h.github.io) for more insights into my tech journey!
 -------------
 
 ### ⚙️Tech Stack
