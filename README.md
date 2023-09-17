@@ -9,16 +9,17 @@
 [![QQ](https://img.shields.io/badge/QQ-644165318-red.svg "QQ")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "QQ")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhu%20Qi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhu-qi-1014/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/Facebook-Zhu%20Qi-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100005561439667 "Facebook")
+[![GitHub Blog](s10143806h.github.io "GitHub")
 
-## 👨🏻‍💻 Hey GitHub Fellows 👋
+## 👨🏻‍💻 Hey GitHub Community! 👋
+
 ### 🧍 About Me
-- 🔭 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Bachelor in Electrical and Electronic Engineering at Nanyang Technological University (NTU).
-- 💼 Working as a Embedded Software Engineer in Realtek Singapore.
-- 🌱 Learning more about RTOS, Artificial Intelligence，PCB and CAD Design.
-- ✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- ⚡ Fun fact: friends not able to pronounce my name will just cal me "SUSHI"
-
+- 🔭 I'm passionate about exploring cutting-edge technologies and crafting software solutions and quick hacks.
+- 🎓 I hold a Master's degree from [NUS (National University of Singapore)](https://www.nus.edu.sg/) and a Bachelor's degree in Electrical and Electronic Engineering from [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/).
+- 💼 Currently, I'm working as an Embedded Software Engineer at Realtek Singapore.
+- 🌱 I'm actively expanding my knowledge in areas such as Real-Time Operating Systems (RTOS), Artificial Intelligence, PCB design, and CAD.
+- ✍️ In my spare time, I enjoy dabbling in Graphic Design and writing for my blog.
+- ⚡ Fun fact: If you're ever unsure how to pronounce my name, just call me "SUSHI" – it works like a charm!
 -------------
 
 ### ⚙️Tech Stack
@@ -53,17 +54,4 @@
 
 ### 📝 Most Recent Articles
 [【分享】什麽是Markdown？要如何使用它？](https://forum.amebaiot.com/t/markdown-1/514 "【分享】什麽是Markdown？要如何使用它？")
-<!--
-**S10143806H/S10143806H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
