@@ -21,7 +21,7 @@
 - ✍️ In my spare time, I enjoy dabbling in Graphic Design and writing for my blog.
 - ⚡ Fun fact: If you're ever unsure how to pronounce my name, just call me "SUSHI" – it works like a charm!
 - 🤝 Let's Connect: I'm always excited to collaborate on innovative projects or just chat about the latest in firmware and open source. Feel free to reach out or check out my repositories!
-Check out my [Blog](s10143806h.github.io) for more insights into my tech journey!
+Check out my [Blog](https://s10143806h.github.io/) for more insights into my tech journey!
 -------------
 
 ### ⚙️Tech Stack
