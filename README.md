@@ -13,12 +13,14 @@
 ## 👨🏻‍💻 Hey GitHub Community! 👋
 
 ### 🧍 About Me
-- 🔭 I'm passionate about exploring cutting-edge technologies and crafting software solutions and quick hacks.
+- 🔭 I specialize in designing and implementing robust firmware solutions, always pushing the boundaries of embedded systems. My expertise lies in creating efficient, reliable, and scalable firmware architectures.
+- 💻 Open Source Enthusiast: I believe in the power of community-driven development and actively contribute to open source projects. For me, open source isn't just about code; it's about collaboration, learning, and sharing knowledge.
 - 🎓 I hold a Master's degree from [NUS (National University of Singapore)](https://www.nus.edu.sg/) and a Bachelor's degree in Electrical and Electronic Engineering from [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/).
 - 💼 Currently, I'm working as an Embedded Software Engineer at Realtek Singapore.
 - 🌱 I'm actively expanding my knowledge in areas such as Real-Time Operating Systems (RTOS), Artificial Intelligence, PCB design, and CAD.
 - ✍️ In my spare time, I enjoy dabbling in Graphic Design and writing for my blog.
 - ⚡ Fun fact: If you're ever unsure how to pronounce my name, just call me "SUSHI" – it works like a charm!
+- 🤝 Let's Connect: I'm always excited to collaborate on innovative projects or just chat about the latest in firmware and open source. Feel free to reach out or check out my repositories!
 Check out my [Blog](s10143806h.github.io) for more insights into my tech journey!
 -------------
 
